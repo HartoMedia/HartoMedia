@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Trash (Totaly Random Shell)<br>HartoDB (Database in Go)<br>Bluesky Emoji (Chrome Extension for Emojis on Bluesky)<br>PKRepo (Public Key Repository)</p>
+<p align="left">Trash (Totaly Random and Aimless Shell)<br>HartoDB (Database in Go)<br>Bluesky Emoji (Chrome Extension for Emojis on Bluesky)<br>PKRepo (Public Key Repository)</p>
 
 ###
 
